@@ -1,4 +1,4 @@
-<h1 align="center">Facial Emotion Detection</h1>
+<!-- <h1 align="center">Facial Emotion Detection</h1>
 
 <div align="center">
 <b>This project provides a demo usage of the Deepface framework</b>.
@@ -30,4 +30,4 @@ $ python emotions_recognition_Deepface.py
 ## Contact
 Achraf Labidi - [LinkedIn](https://www.linkedin.com/in/ashraf-labidi-0xff3e/)
 
-Other Projects - [GravityDarkLab](https://github.com/GravityDarkLab)
+Other Projects - [GravityDarkLab](https://github.com/GravityDarkLab) -->
