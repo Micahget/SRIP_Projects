@@ -19,7 +19,7 @@
 - Clone this repo:
 
   ```shell
-  git clone https://github.com/Micahget/IITGN_SRIP_Projects.git
+  git clone https://github.com/Micahget/SRIP_Projects.git
   git lfs install
   git lfs pull
     ```
