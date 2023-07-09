@@ -21,5 +21,5 @@ python detectFaces.py
 
 ## Reference
 
-- https://github.com/opencv/opencv_zoo/tree/main/models/face_detection_yunet
-- https://github.com/ShiqiYu/libfacedetection.train
+- <https://github.com/opencv/opencv_zoo/tree/main/models/face_detection_yunet>
+- <https://github.com/ShiqiYu/libfacedetection.train>
