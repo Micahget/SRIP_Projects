@@ -29,8 +29,6 @@ Run the following command to try the demo:
 python Emotion_Detection1.py
 ```
 
-
-
 ## Reference
 
 - <https://github.com/opencv/opencv_zoo/tree/main/models/facial_expression_recognition>
